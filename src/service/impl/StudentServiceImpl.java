@@ -11,7 +11,7 @@ public class StudentServiceImpl implements StudentService {
 
 	@Override
 	public void show1() {
-		// TODO Auto-generated method stub
+		System.out.println("show1111");
 
 	}
 
